@@ -7,3 +7,6 @@
 
 ### Digital Logic Design
 - [Design of Digital Circuits](https://safari.ethz.ch/digitaltechnik/spring2019/doku.php?id=start)
+
+### Compilers
+- [Compiler Construction](https://courses.engr.illinois.edu/cs426/fa2022/)
