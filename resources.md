@@ -1,3 +1,10 @@
+## Subdisciplines
+- Compilers
+- Computer Architecture
+- Digital Logic Design
+- Embedded Systems
+- Operating Systems
+- Quantum Computing
 
 ## Introduction to Computing
 ### Textbooks
@@ -24,13 +31,30 @@
 ### Textbooks
 - [Engineering a Compiler (2012)](https://drive.google.com/file/d/1gN-Ka-HqGjzFAu_w06KAgAhJg8lhjUF2/view?usp=drive_link)
 - [Compilers Principles, Techniques, and Tools (The Dragon Book) (2007)](https://drive.google.com/file/d/1idyCPu5hsa4kEVEUg7E0CXGwRbo-xnTC/view?usp=drive_link)
+### Projects
+- Build a C Compiler
+- Build a C++ Compiler
+- Build a Python Interpreter
+- Use Machine Learning for Compiler Optimization
 
 ## Embedded Systems
 ### Textbooks
 - [Introduction to Embedded Systems (2021)](https://users.ece.utexas.edu/%7Evalvano/Volume1/IntroToEmbSys/)
+### Public University Courses
+- [Compiler Construction (2022)](https://courses.engr.illinois.edu/cs426/fa2022/)
+### Textbooks
+- [Engineering a Compiler (2012)](https://drive.google.com/file/d/1gN-Ka-HqGjzFAu_w06KAgAhJg8lhjUF2/view?usp=drive_link)
+- [Compilers Principles, Techniques, and Tools (The Dragon Book) (2007)](https://drive.google.com/file/d/1idyCPu5hsa4kEVEUg7E0CXGwRbo-xnTC/view?usp=drive_link)
+
+## Embedded Systems
+### Textbooks
 - [Embedded Systems: Real-Time Interfacing to Arm® Cortex™-M Microcontrollers (2014)](https://drive.google.com/file/d/1SApPsrifvTVuzk193UbheAF9JAXGcRIc/view?usp=drive_link)
 - [Embedded Systems: Real-Time Operating Systems for Arm® Cortex™-M Microcontrollers (2017)](https://drive.google.com/file/d/14-nbdcOP3y0G8QhtBvncZHst80fHHHK_/view?usp=drive_link)
 
 ## Operating Systems
 ### University Courses
 - Operating System Engineering [(2020)](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
+### Projects
+- Build a Python Interpreter
+- Build a Linux OS
+- Build a RTOS
