@@ -41,6 +41,7 @@
 ### Textbooks
 - [Introduction to Embedded Systems (2021)](https://users.ece.utexas.edu/%7Evalvano/Volume1/IntroToEmbSys/)
 ### Public University Courses
+- [Embedded Systems Design Lab](https://users.ece.utexas.edu/~valvano/EE445L/)
 - [Compiler Construction (2022)](https://courses.engr.illinois.edu/cs426/fa2022/)
 ### Textbooks
 - [Engineering a Compiler (2012)](https://drive.google.com/file/d/1gN-Ka-HqGjzFAu_w06KAgAhJg8lhjUF2/view?usp=drive_link)
@@ -53,6 +54,7 @@
 
 ## Operating Systems
 ### University Courses
+- Embedded and Real-Time Systems / Real-Time Operating Systems [2019](https://users.ece.utexas.edu/~gerstl/ee445m_s19/index.html)
 - Operating System Engineering [(2020)](https://pdos.csail.mit.edu/6.S081/2020/schedule.html)
 ### Projects
 - Build a Python Interpreter
